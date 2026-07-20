@@ -1,0 +1,12 @@
+# Core packages
+pandas
+numpy
+matplotlib
+seaborn
+
+# Market Basket Analysis (Apriori)
+mlxtend
+networkx
+
+# Notebook support
+jupyter
